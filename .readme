@@ -1,0 +1,29 @@
+Download all the below mentioned npm dependencies to run the app
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.27.1",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.11",
+    "morgan": "^1.10.0",
+    "socket.io": "^2.1.1"
+    
+ Also install the dev Dependencies
+nodemon
+
+npm start to run the nodemon server.js file
+
+Also download and install Monogodb
+https://docs.mongodb.com/manual/administration/install-community/
+
+For windows follow the below steps and installing the .exe file 
+1.Create database directory
+cd C:\
+md "\data\db"
+2.Start your MongoDB database
+"C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe" --dbpath="c:\data\db"
+ And then install Robo3T
+To connect to MongoDb database
