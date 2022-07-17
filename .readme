@@ -11,8 +11,7 @@ Download all the below mentioned npm dependencies to run the app
     "morgan": "^1.10.0",
     "socket.io": "^2.1.1"
     
- Also install the dev Dependencies
-nodemon
+ Also install the dev Dependencie nodemon
 
 npm start to run the nodemon server.js file
 
